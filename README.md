@@ -6,7 +6,7 @@ Este repositório é a minha solução para o desafio [File Metadata Microservic
 
 - Aplicar os conhecimentos obtidos no curso [APIs and Microservices](https://www.freecodecamp.org/learn/apis-and-microservices) da [FreeCodeCamp](https://www.freecodecamp.org).
 - Montar uma API que passe nos testes:
-	- :white_check_mark: O servidor pode receber um arquivo via upload e irá retornar o JSON com o nome, o tipo e o tamanho em bytes do arquivo nos campos `name`, `type`e`size`.
+	- :white_check_mark: O servidor pode receber um arquivo via upload e irá retornar um JSON com o nome, o tipo e o tamanho em bytes do arquivo nos campos `name`, `type`e`size`.
 
 ## 🛠 Tecnologias
 
